@@ -1,0 +1,8 @@
+Rank,Feature
+1,degree
+2,pagerank
+3,betweenness_centrality
+4,eigenvector_centrality
+5,eccentricity
+6,core_number
+7,closeness_centrality

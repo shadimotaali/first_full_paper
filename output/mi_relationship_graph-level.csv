@@ -1,0 +1,9 @@
+,rel_coverage,frac_p2c_edges,frac_p2p_edges,frac_unknown_edges,valley_free_violations,valley_free_violation_rate,valley_free_paths_checked,avg_violation_depth
+rel_coverage,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+frac_p2c_edges,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+frac_p2p_edges,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+frac_unknown_edges,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+valley_free_violations,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+valley_free_violation_rate,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+valley_free_paths_checked,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+avg_violation_depth,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

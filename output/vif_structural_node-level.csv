@@ -1,0 +1,15 @@
+Feature,VIF
+degree_centrality,5476566417.017896
+degree,5476469852.564187
+pagerank,318.2827230022
+betweenness_centrality,36.1481535197922
+node_clique_number,26.632015286366137
+eigenvector_centrality,24.661723095420108
+ixp_vector_norm,15.63691320524554
+core_number,13.838268059871295
+closeness_centrality,7.911653194536815
+avg_neighbor_degree,4.519883933443198
+local_clustering,3.457918793434099
+eccentricity,2.357561138864147
+avg_ixp_cosine_dist,2.2418494114433827
+n_ixp_memberships,1.2378411613035805

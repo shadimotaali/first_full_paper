@@ -1,0 +1,9 @@
+Feature,Cluster
+n_customers,1
+p2c_ratio,1
+is_tier1,2
+n_peers,3
+p2p_ratio,3
+provider_ratio,3
+n_providers,4
+n_unknown_rel,5

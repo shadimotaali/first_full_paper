@@ -1,0 +1,9 @@
+Feature,Max_Pearson,Max_Spearman,Max_dCor,Max_NMI,VIF,Cluster_Size,mRMR_Excluded_Target,mRMR_Rank,mRMR_Selected,N_Flags
+frac_p2c_edges,0.999915866060081,1.0,0.9999511889804988,0.0,,5,False,,False,5
+valley_free_violations,0.9926227087807479,1.0,0.9947714228624114,0.0,,3,False,,False,5
+valley_free_violation_rate,0.9926227087807479,1.0,0.9947714228624114,0.0,,3,False,,False,5
+rel_coverage,1.0000000000000946,1.0,1.0000000000475098,0.0,,5,False,3.0,True,4
+frac_unknown_edges,1.0000000000000946,1.0,1.0000000000475098,0.0,,5,False,1.0,True,4
+frac_p2p_edges,0.999915866060081,1.0,0.9999511889804988,0.0,,5,False,4.0,True,4
+avg_violation_depth,0.8735870405250555,1.0,0.8851721955394631,0.0,,3,False,,False,3
+valley_free_paths_checked,0.8962294697814103,0.9486832980505138,0.8905713849027299,0.0,,5,False,2.0,True,2

@@ -1,0 +1,102 @@
+{
+  "Structural Graph-Level": {
+    "keep": [
+      "betweenness_std",
+      "ego_avg_violation_depth",
+      "ego_transit_violations",
+      "n_nodes_full",
+      "ego_valley_free_violations"
+    ],
+    "remove": [
+      "algebraic_connectivity",
+      "assortativity",
+      "avg_edge_ixp_cosine_dist",
+      "avg_path_length",
+      "betweenness_mean",
+      "betweenness_max",
+      "betweenness_skewness",
+      "ego_edges",
+      "clustering_global",
+      "core_mean",
+      "core_std",
+      "density",
+      "ego_vf_paths_frac",
+      "ego_valley_free_paths_checked",
+      "ego_nodes",
+      "n_edges_with_ixp_data",
+      "n_edges_missing_ixp_data",
+      "log_spanning_trees",
+      "ego_valley_free_paths_total",
+      "n_edges",
+      "median_edge_ixp_cosine_dist",
+      "lcc_fraction",
+      "symmetry_ratio",
+      "rich_club_p95",
+      "rich_club_p90",
+      "rich_club_p50",
+      "rich_club_p75",
+      "rich_club_p25",
+      "percolation_limit",
+      "natural_connectivity",
+      "n_nodes",
+      "spectral_radius",
+      "kirchhoff_index",
+      "ego_transit_vf_rate",
+      "adj_eig_ratio_1_2",
+      "ego_valley_free_violation_rate",
+      "clustering_avg_local",
+      "std_edge_ixp_cosine_dist",
+      "n_edges_full",
+      "spectral_gap",
+      "vf_rate_delta"
+    ]
+  },
+  "Relationship Graph-Level": {
+    "keep": [
+      "avg_violation_depth",
+      "valley_free_paths_checked"
+    ],
+    "remove": [
+      "valley_free_violation_rate",
+      "valley_free_violations",
+      "rel_coverage",
+      "frac_unknown_edges",
+      "frac_p2p_edges",
+      "frac_p2c_edges"
+    ]
+  },
+  "Structural Node-Level": {
+    "keep": [
+      "closeness_centrality",
+      "n_ixp_memberships",
+      "ixp_vector_norm",
+      "local_clustering",
+      "betweenness_centrality",
+      "avg_neighbor_degree",
+      "avg_ixp_cosine_dist",
+      "eccentricity"
+    ],
+    "remove": [
+      "eigenvector_centrality",
+      "node_clique_number",
+      "degree_centrality",
+      "degree",
+      "pagerank",
+      "core_number"
+    ]
+  },
+  "Relationship Node-Level": {
+    "keep": [
+      "n_customers",
+      "is_tier1",
+      "provider_ratio",
+      "n_providers",
+      "n_unknown_rel"
+    ],
+    "remove": [
+      "p2c_ratio",
+      "n_peers",
+      "p2p_ratio"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+Feature,Cluster
+closeness_centrality,1
+eigenvector_centrality,1
+n_ixp_memberships,2
+ixp_vector_norm,3
+local_clustering,4
+node_clique_number,4
+betweenness_centrality,5
+degree_centrality,5
+degree,5
+pagerank,5
+core_number,5
+avg_neighbor_degree,6
+avg_ixp_cosine_dist,7
+eccentricity,8

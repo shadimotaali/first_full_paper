@@ -1,0 +1,9 @@
+Feature,Cluster
+valley_free_violation_rate,1
+avg_violation_depth,1
+valley_free_violations,1
+rel_coverage,2
+frac_unknown_edges,2
+frac_p2p_edges,2
+frac_p2c_edges,2
+valley_free_paths_checked,2
